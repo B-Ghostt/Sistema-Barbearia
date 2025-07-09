@@ -2,20 +2,20 @@
 Protejo de sistema Web desenvolvido no curso de programador web do senac
 
  Briefing - Barbearia Garb’s
-1. Informações Gerais
+### 1. Informações Gerais
 Nome do Negócio: Garb’s Barbearia
 
 Segmento: Beleza Masculina / Serviços de Barbearia
 
 Localização: [Sobral/Ce]
 
-2. Missão
+### 2. Missão
 Oferecer cortes de cabelo, barbas e cuidados masculinos com excelência, estilo e atenção ao cliente, em um ambiente acolhedor e moderno.
 
-3. Visão
+### 3. Visão
 Ser reconhecida como a barbearia de referência em estilo, atendimento e inovação na região.
 
-4. Valores
+### 4. Valores
 Estilo e autenticidade
 
 Atendimento humanizado
@@ -26,7 +26,7 @@ Respeito à tradição e abertura à inovação
 
 Higiene e segurança
 
-5. Público-Alvo
+### 5. Público-Alvo
 Idade: Homens de 18 a 45 anos
 
 Estilo de vida: Jovens adultos e adultos modernos, preocupados com aparência, que valorizam o autocuidado e o estilo pessoal.
@@ -35,7 +35,7 @@ Ocupações: Estudantes, profissionais liberais, empresários, influenciadores, 
 
 Comportamento: Buscam praticidade, agilidade no atendimento e um ambiente agradável.
 
-6. Serviços Oferecidos
+### 6. Serviços Oferecidos
 Corte Masculino Tradicional e Moderno
 
 Barba (com toalha quente e barboterapia)
@@ -54,7 +54,7 @@ Pacotes “Corte + Barba”
 
 Corte Infantil
 
-7. Produtos Relacionados (à venda na barbearia ou online)
+### 7. Produtos Relacionados (à venda na barbearia ou online)
 Pomadas e ceras modeladoras
 
 Shampoos e condicionadores masculinos
@@ -63,13 +63,13 @@ Shampoos e condicionadores masculinos
 
 Kits de barbear (navalha, pincel, espuma, loções)
 
-8. Concorrência Direta e Indireta
+### 8. Concorrência Direta e Indireta
 Outras barbearias do bairro ou cidade com proposta moderna
 
 Salões de beleza unissex
 
 
-9. Diferenciais da Garb’s
+### 9. Diferenciais da Garb’s
 Atendimento com hora marcada e pontualidade
 
 Ambiente estilizado com música ambiente, café ou cerveja 
@@ -80,7 +80,7 @@ Venda de produtos profissionais exclusivos
 
 Fidelização de clientes com programas de pontos ou descontos
 
-10. Canais de Comunicação
+### 10. Canais de Comunicação
 Presenciais: Fachada, ambientação
 
 Digitais:
@@ -92,7 +92,7 @@ Instagram com fotos de cortes e bastidores
 
 Google Meu Negócio para avaliações e localização
 
-11. Objetivos do Site / Projeto Digital
+### 11. Objetivos do Site / Projeto Digital
 Apresentar a barbearia e seus diferenciais
 
 Exibir serviços e preços
@@ -107,7 +107,7 @@ Coletar contatos e mensagens pelo formulário
 
 Criar presença profissional na internet
 
-12. Paleta de Cores e Estilo Visual (sugestão)
+### 12. Paleta de Cores e Estilo Visual (sugestão)
 Preto, cinza escuro e dourado (luxo e masculinidade)
 
 Tipografia robusta com serifa ou estilo vintage
