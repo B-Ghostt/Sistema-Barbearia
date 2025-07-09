@@ -44,7 +44,7 @@ Idade: Homens de 18 a 45 anos
 
 - Hidratação Capilar
 
-Pigmentação de Barba
+- Pigmentação de Barba
 
 - Relaxamento ou Alisamento Capilar
 
