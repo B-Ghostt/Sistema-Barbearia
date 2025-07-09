@@ -70,6 +70,6 @@
 
 ---
 
-
+https://pt.scribd.com/document/789595702/BRIEFING-Y-CONTRA-BRIEFING-DISEN-O?utm_source=chatgpt.com
 
 [1]: https://www.scribd.com/document/789595702/BRIEFING-Y-CONTRA-BRIEFING-DISEN-O?utm_source=chatgpt.com "Briefing y Contra-Briefing - Diseño | PDF | Moda | Marketing"
