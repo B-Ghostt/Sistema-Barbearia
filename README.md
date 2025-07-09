@@ -3,28 +3,28 @@ Protejo de sistema Web desenvolvido no curso de programador web do senac
 
  Briefing - Barbearia Garb’s
 ### 1. Informações Gerais
-Nome do Negócio: Garb’s Barbearia
+- Nome do Negócio: Garb’s Barbearia
 
-Segmento: Beleza Masculina / Serviços de Barbearia
+- Segmento: Beleza Masculina / Serviços de Barbearia
 
-Localização: [Sobral/Ce]
+- Localização: [Sobral/Ce]
 
 ### 2. Missão
-Oferecer cortes de cabelo, barbas e cuidados masculinos com excelência, estilo e atenção ao cliente, em um ambiente acolhedor e moderno.
+- Oferecer cortes de cabelo, barbas e cuidados masculinos com excelência, estilo e atenção ao cliente, em um ambiente acolhedor e moderno.
 
 ### 3. Visão
-Ser reconhecida como a barbearia de referência em estilo, atendimento e inovação na região.
+- Ser reconhecida como a barbearia de referência em estilo, atendimento e inovação na região.
 
 ### 4. Valores
-Estilo e autenticidade
+- Estilo e autenticidade
 
-Atendimento humanizado
+- Atendimento humanizado
 
-Comprometimento com a qualidade
+- Comprometimento com a qualidade
 
-Respeito à tradição e abertura à inovação
+- Respeito à tradição e abertura à inovação
 
-Higiene e segurança
+- Higiene e segurança
 
 ### 5. Público-Alvo
 Idade: Homens de 18 a 45 anos
