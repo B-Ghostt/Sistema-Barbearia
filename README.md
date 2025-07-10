@@ -115,3 +115,5 @@ Preto, cinza escuro e dourado (luxo e masculinidade)
 - Elementos gráficos como navalhas, bigodes, tesouras
 
 - Inspiração retrô/industrial (cimento queimado, madeira, metais)
+
+![Wireframe](Untitled-2025-07-09-0843.svg-bruno.svg)
