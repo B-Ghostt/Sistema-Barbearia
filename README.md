@@ -117,3 +117,5 @@ Preto, cinza escuro e dourado (luxo e masculinidade)
 - Inspiração retrô/industrial (cimento queimado, madeira, metais)
 
 ![Wireframe](Untitled-2025-07-09-0843.svg-bruno.svg)
+
+![Wireframe.ProfJocile](Untitled-2025-07-09-0843.svg-profjocile.svg)
