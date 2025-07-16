@@ -1,3 +1,4 @@
+
 ---
 
 ## 🗂️ Apresentação Visual – Briefing Garb’s Barbearia
