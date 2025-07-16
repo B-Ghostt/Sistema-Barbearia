@@ -16,7 +16,7 @@
 
 ### 🎯 Público-Alvo
 
-* Perfil detalhado: 18‑45 anos, ocupações urbanas, vaidosos e exigentes
+* Perfil detalhado: Jovens, Adultos e Idosos. Ocupações urbanas, vaidosos e exigentes
 * Incluído gráfico simples para visualização
 
 ### ✂️ Serviços & Produtos
