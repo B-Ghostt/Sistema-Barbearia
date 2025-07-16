@@ -27,7 +27,6 @@ Protejo de sistema Web desenvolvido no curso de programador web do senac
 - Higiene e segurança
 
 ### 5. Público-Alvo
-Idade: Homens de 18 a 45 anos
 
 - Estilo de vida: Jovens adultos e adultos modernos, preocupados com aparência, que valorizam o autocuidado e o estilo pessoal.
 
@@ -36,7 +35,7 @@ Idade: Homens de 18 a 45 anos
 - Comportamento: Buscam praticidade, agilidade no atendimento e um ambiente agradável.
 
 ### 6. Serviços Oferecidos
-- Corte Masculino Tradicional e Moderno
+- Corte Tradicional e Moderno
 
 - Barba (com toalha quente e barboterapia)
 
